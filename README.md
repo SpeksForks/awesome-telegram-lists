@@ -3,6 +3,7 @@ Links to awesome telegram lists: lists of groups, channels, bots, etc.
 
 ## Groups and Channels
 * [goq/telegram-list](https://github.com/goq/telegram-list) [russian] - groups, channels, bots
+* [gitlab:listados/awesome-telegram](https://gitlab.com/listados/awesome-telegram) [spanish,english] - channels, groups, bots
 * [OpenVe/comunidades-en-telegram](https://github.com/OpenVE/comunidades-en-telegram) [spanish] - groups
 * [hendisantika/List-All-Programming-Telegram-Group](https://github.com/hendisantika/List-All-Programming-Telegram-Group)  [indonesian] - IT groups
 * [stkw0/awesome-telegram-groups](https://github.com/stkw0/awesome-telegram-groups) [english,russian,spanish] - IT groups
